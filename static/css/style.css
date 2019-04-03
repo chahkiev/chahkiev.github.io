@@ -23,6 +23,20 @@ body {
 img.displayed {
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto
 }
-	
+
+.cv {
+	font-family: "Harabara";
+	font-size: 2vh;
+  color: white;
+	margin-top: 2vh;
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 1vh;
+	text-align: center;
+}
+
+ a:hover{
+   text-decoration: none
+ }
