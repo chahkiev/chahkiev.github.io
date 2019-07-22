@@ -1,4 +1,13 @@
-# How it looks like 
-##### (now it's not optimixed for mobile devices)
+## How it looks like 
 
-<img src="/static/images/main_page.png" width="870" height="420"/>
+### Site v2.0
+(optimixed for mobile devices)
+<img src="/static/images/site_v2.png" width="870" height="420"/>
+
+# 
+
+### Site v1.0
+(not optimixed for mobile devices)
+<img src="/static/images/site_v1.png" width="870" height="420"/>
+
+# 
