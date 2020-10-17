@@ -8,12 +8,20 @@ body, html {
 
 /* FONTS */
 @font-face {
-		font-family: "Harabara";
-		src: url("static/fonts/Harabara.woff2") format("woff")
+		font-family: "FontOfKindness2.0";
+		/* src: url("static/fonts/Harabara.woff2") format("woff") */
+		src: url("../fonts/FontOfKindness2.0-Regular.otf");
+		
+}
+
+p {
+	font-family: "FontOfKindness2.0";
+	color: white;
 }
 
 /* CENTER SIDE */
 .center {
+		font-family: "FontOfKindness2.0";
 		width: 100%;
 		height: 100%;
 }
@@ -34,7 +42,7 @@ body, html {
 }
 
 .center .center-content .center-wrapper .name {
-		font-size: 4vh;
+		font-size: 5vh;
 		text-align: center;
 		color: white;
 }
@@ -52,7 +60,7 @@ body, html {
 }
 
 .center .center-content .center-wrapper .status {
-		font-family: "Harabara";
+		font-family: "FontOfKindness2.0";
 		font-size: 3vh;
 		text-align: center;
 		margin-top: 6px;
